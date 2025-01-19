@@ -18,4 +18,16 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
