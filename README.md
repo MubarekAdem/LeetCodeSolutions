@@ -6,6 +6,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,10 +19,12 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
 | ------- |
