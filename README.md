@@ -6,6 +6,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
@@ -19,6 +20,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -33,4 +35,8 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
