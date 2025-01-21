@@ -44,12 +44,19 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
