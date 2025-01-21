@@ -11,6 +11,7 @@ this repository is dedicated to the leetcode solution i Solved .
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -39,4 +40,16 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
