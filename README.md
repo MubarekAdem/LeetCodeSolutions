@@ -15,6 +15,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | ------- |
 | [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 ## Heap (Priority Queue)
@@ -56,6 +57,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | ------- |
 | [0100-same-tree](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -74,4 +76,12 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
