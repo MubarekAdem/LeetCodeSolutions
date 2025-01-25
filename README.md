@@ -10,6 +10,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | [1876-map-of-highest-peak](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
