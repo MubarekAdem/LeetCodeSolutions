@@ -6,6 +6,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
@@ -23,6 +24,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -90,4 +93,8 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
