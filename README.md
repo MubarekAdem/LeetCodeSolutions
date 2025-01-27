@@ -47,6 +47,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +73,7 @@ this repository is dedicated to the leetcode solution i Solved .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Union Find
 |  |
