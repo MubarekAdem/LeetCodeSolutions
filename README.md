@@ -51,6 +51,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,4 +109,12 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
