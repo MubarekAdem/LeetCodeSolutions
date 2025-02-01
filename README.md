@@ -14,6 +14,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3429-special-array-i](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3429-special-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
