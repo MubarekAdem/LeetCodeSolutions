@@ -32,6 +32,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
+| [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -46,6 +47,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
@@ -129,4 +131,12 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
