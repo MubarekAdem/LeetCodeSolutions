@@ -12,6 +12,7 @@ this repository is dedicated to the leetcode solution i Solved .
 | [1876-map-of-highest-peak](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -48,11 +49,13 @@ this repository is dedicated to the leetcode solution i Solved .
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
@@ -100,6 +103,7 @@ this repository is dedicated to the leetcode solution i Solved .
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [2448-count-number-of-bad-pairs](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Graph
 |  |
 | ------- |
