@@ -5,6 +5,7 @@ this repository is dedicated to the leetcode solution i Solved .
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
 | [1325-path-with-maximum-probability](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
@@ -47,6 +48,7 @@ this repository is dedicated to the leetcode solution i Solved .
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [2434-design-a-number-container-system](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/MubarekAdem/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
